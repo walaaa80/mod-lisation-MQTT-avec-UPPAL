@@ -88,6 +88,6 @@ flowchart LR
 
 <div align="center">
 
-Si ce projet vous est utile, n'hésitez pas à lui donner une étoile.
+
 
 </div>
